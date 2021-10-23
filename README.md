@@ -12,3 +12,5 @@ https://cmccormack92.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Christopher McCormack
+
+### ©️2019 Run Buddy, Inc
